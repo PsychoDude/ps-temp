@@ -1,4 +1,7 @@
-.tempdiv {
+div {
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
 	width: 210px;
 	width: 50%;
 	margin: 0 auto;
@@ -6,7 +9,7 @@
 	padding-top: 80px;
 }
 
-.tempdiv img {
+div img {
 	max-width: 100%;
 	height: auto;
 }
