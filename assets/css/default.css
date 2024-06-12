@@ -1,0 +1,17 @@
+.tempdiv {
+	width: 210px;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 80px;
+}
+
+.tempdiv img {
+	max-width: 100%;
+	height: auto;
+}
+
+p {
+	font-size: 24px;
+	text-align: center;
+}
